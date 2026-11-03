@@ -1,384 +1,111 @@
 {
   "sport": "basketball",
   "league": "mens-college-basketball",
-  "date": "20261102",
-  "count": 18,
+  "date": "20261103",
+  "count": 5,
   "games": [
     {
-      "id": "401906769",
-      "name": "Miami Hurricanes at Florida Gators",
-      "shortName": "MIA VS FLA",
-      "date": "2026-11-02T23:00Z",
+      "id": "401906848",
+      "name": "Wofford Terriers at Tennessee Volunteers",
+      "shortName": "WOF @ TENN",
+      "date": "2026-11-03T23:00Z",
       "state": "pre",
-      "status": "11/2 - 6:00 PM EST",
+      "status": "11/3 - 6:00 PM EST",
       "completed": false,
       "home": {
-        "id": "57",
-        "abbr": "FLA",
-        "name": "Florida Gators",
+        "id": "2633",
+        "abbr": "TENN",
+        "name": "Tennessee Volunteers",
         "score": "0"
       },
       "away": {
-        "id": "2390",
-        "abbr": "MIA",
-        "name": "Miami Hurricanes",
+        "id": "2747",
+        "abbr": "WOF",
+        "name": "Wofford Terriers",
         "score": "0"
       }
     },
     {
-      "id": "401925733",
-      "name": "Oakland Golden Grizzlies at Michigan Wolverines",
-      "shortName": "OAK @ MICH",
-      "date": "2026-11-02T23:00Z",
+      "id": "401921801",
+      "name": "Manhattan Jaspers at Kentucky Wildcats",
+      "shortName": "MAN @ UK",
+      "date": "2026-11-04T00:00Z",
       "state": "pre",
-      "status": "11/2 - 6:00 PM EST",
+      "status": "11/3 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "130",
-        "abbr": "MICH",
-        "name": "Michigan Wolverines",
+        "id": "96",
+        "abbr": "UK",
+        "name": "Kentucky Wildcats",
         "score": "0"
       },
       "away": {
-        "id": "2473",
-        "abbr": "OAK",
-        "name": "Oakland Golden Grizzlies",
+        "id": "2363",
+        "abbr": "MAN",
+        "name": "Manhattan Jaspers",
         "score": "0"
       }
     },
     {
-      "id": "401909562",
-      "name": "Army Black Knights at Duke Blue Devils",
-      "shortName": "ARMY @ DUKE",
-      "date": "2026-11-02T23:30Z",
+      "id": "401920422",
+      "name": "Drexel Dragons at Virginia Cavaliers",
+      "shortName": "DREX @ UVA",
+      "date": "2026-11-04T00:30Z",
       "state": "pre",
-      "status": "11/2 - 6:30 PM EST",
+      "status": "11/3 - 7:30 PM EST",
       "completed": false,
       "home": {
-        "id": "150",
-        "abbr": "DUKE",
-        "name": "Duke Blue Devils",
+        "id": "258",
+        "abbr": "UVA",
+        "name": "Virginia Cavaliers",
         "score": "0"
       },
       "away": {
-        "id": "349",
-        "abbr": "ARMY",
-        "name": "Army Black Knights",
+        "id": "2182",
+        "abbr": "DREX",
+        "name": "Drexel Dragons",
         "score": "0"
       }
     },
     {
-      "id": "401920679",
-      "name": "Monmouth Hawks at St. John's Red Storm",
-      "shortName": "MONM @ SJU",
-      "date": "2026-11-02T23:30Z",
+      "id": "401906757",
+      "name": "Sam Houston Bearkats at Alabama Crimson Tide",
+      "shortName": "SHSU @ ALA",
+      "date": "2026-11-04T00:30Z",
       "state": "pre",
-      "status": "11/2 - 6:30 PM EST",
+      "status": "11/3 - 7:30 PM EST",
       "completed": false,
       "home": {
-        "id": "2599",
-        "abbr": "SJU",
-        "name": "St. John's Red Storm",
+        "id": "333",
+        "abbr": "ALA",
+        "name": "Alabama Crimson Tide",
         "score": "0"
       },
       "away": {
-        "id": "2405",
-        "abbr": "MONM",
-        "name": "Monmouth Hawks",
+        "id": "2534",
+        "abbr": "SHSU",
+        "name": "Sam Houston Bearkats",
         "score": "0"
       }
     },
     {
-      "id": "401924856",
-      "name": "Quinnipiac Bobcats at Michigan State Spartans",
-      "shortName": "QUIN @ MSU",
-      "date": "2026-11-03T00:00Z",
+      "id": "401929372",
+      "name": "Arkansas-Pine Bluff Golden Lions at Arkansas Razorbacks",
+      "shortName": "UAPB @ ARK",
+      "date": "2026-11-04T01:00Z",
       "state": "pre",
-      "status": "11/2 - 7:00 PM EST",
+      "status": "11/3 - 8:00 PM EST",
       "completed": false,
       "home": {
-        "id": "127",
-        "abbr": "MSU",
-        "name": "Michigan State Spartans",
+        "id": "8",
+        "abbr": "ARK",
+        "name": "Arkansas Razorbacks",
         "score": "0"
       },
       "away": {
-        "id": "2514",
-        "abbr": "QUIN",
-        "name": "Quinnipiac Bobcats",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401909771",
-      "name": "Memphis Tigers at Iowa State Cyclones",
-      "shortName": "MEM VS ISU",
-      "date": "2026-11-03T00:00Z",
-      "state": "pre",
-      "status": "11/2 - 7:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "66",
-        "abbr": "ISU",
-        "name": "Iowa State Cyclones",
-        "score": "0"
-      },
-      "away": {
-        "id": "235",
-        "abbr": "MEM",
-        "name": "Memphis Tigers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401921036",
-      "name": "Jackson State Tigers at Texas Tech Red Raiders",
-      "shortName": "JKST @ TTU",
-      "date": "2026-11-03T00:00Z",
-      "state": "pre",
-      "status": "11/2 - 7:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2641",
-        "abbr": "TTU",
-        "name": "Texas Tech Red Raiders",
-        "score": "0"
-      },
-      "away": {
-        "id": "2296",
-        "abbr": "JKST",
-        "name": "Jackson State Tigers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401921104",
-      "name": "Bellarmine Knights at Vanderbilt Commodores",
-      "shortName": "BELL @ VAN",
-      "date": "2026-11-03T00:00Z",
-      "state": "pre",
-      "status": "11/2 - 7:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "238",
-        "abbr": "VAN",
-        "name": "Vanderbilt Commodores",
-        "score": "0"
-      },
-      "away": {
-        "id": "91",
-        "abbr": "BELL",
-        "name": "Bellarmine Knights",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401921704",
-      "name": "Gonzaga Bulldogs at Purdue Boilermakers",
-      "shortName": "GONZ VS PUR",
-      "date": "2026-11-03T00:30Z",
-      "state": "pre",
-      "status": "11/2 - 7:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2509",
-        "abbr": "PUR",
-        "name": "Purdue Boilermakers",
-        "score": "0"
-      },
-      "away": {
-        "id": "2250",
-        "abbr": "GONZ",
-        "name": "Gonzaga Bulldogs",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401913525",
-      "name": "Fairleigh Dickinson Knights at Illinois Fighting Illini",
-      "shortName": "FDU @ ILL",
-      "date": "2026-11-03T01:00Z",
-      "state": "pre",
-      "status": "11/2 - 8:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "356",
-        "abbr": "ILL",
-        "name": "Illinois Fighting Illini",
-        "score": "0"
-      },
-      "away": {
-        "id": "161",
-        "abbr": "FDU",
-        "name": "Fairleigh Dickinson Knights",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401909784",
-      "name": "Fordham Rams at Kansas Jayhawks",
-      "shortName": "FOR @ KU",
-      "date": "2026-11-03T01:00Z",
-      "state": "pre",
-      "status": "11/2 - 8:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2305",
-        "abbr": "KU",
-        "name": "Kansas Jayhawks",
-        "score": "0"
-      },
-      "away": {
-        "id": "2230",
-        "abbr": "FOR",
-        "name": "Fordham Rams",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401911390",
-      "name": "Gardner-Webb Runnin' Bulldogs at UConn Huskies",
-      "shortName": "GWEB @ CONN",
-      "date": "2026-11-03T02:00Z",
-      "state": "pre",
-      "status": "11/2 - 9:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "41",
-        "abbr": "CONN",
-        "name": "UConn Huskies",
-        "score": "0"
-      },
-      "away": {
-        "id": "2241",
-        "abbr": "GWEB",
-        "name": "Gardner-Webb Runnin' Bulldogs",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401906863",
-      "name": "Chicago State Cougars at Texas Longhorns",
-      "shortName": "CHST @ TEX",
-      "date": "2026-11-03T02:00Z",
-      "state": "pre",
-      "status": "11/2 - 9:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "251",
-        "abbr": "TEX",
-        "name": "Texas Longhorns",
-        "score": "0"
-      },
-      "away": {
-        "id": "2130",
-        "abbr": "CHST",
-        "name": "Chicago State Cougars",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401925811",
-      "name": "La Salle Explorers at Houston Cougars",
-      "shortName": "LAS @ HOU",
-      "date": "2026-11-03T02:00Z",
-      "state": "pre",
-      "status": "11/2 - 9:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "248",
-        "abbr": "HOU",
-        "name": "Houston Cougars",
-        "score": "0"
-      },
-      "away": {
-        "id": "2325",
-        "abbr": "LAS",
-        "name": "La Salle Explorers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401918947",
-      "name": "Chattanooga Mocs at Louisville Cardinals",
-      "shortName": "UTC @ LOU",
-      "date": "2026-11-03T02:00Z",
-      "state": "pre",
-      "status": "11/2 - 9:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "97",
-        "abbr": "LOU",
-        "name": "Louisville Cardinals",
-        "score": "0"
-      },
-      "away": {
-        "id": "236",
-        "abbr": "UTC",
-        "name": "Chattanooga Mocs",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401916313",
-      "name": "Ohio State Buckeyes at BYU Cougars",
-      "shortName": "OSU VS BYU",
-      "date": "2026-11-03T02:00Z",
-      "state": "pre",
-      "status": "11/2 - 9:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "252",
-        "abbr": "BYU",
-        "name": "BYU Cougars",
-        "score": "0"
-      },
-      "away": {
-        "id": "194",
-        "abbr": "OSU",
-        "name": "Ohio State Buckeyes",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401909738",
-      "name": "Arizona Wildcats at UCLA Bruins",
-      "shortName": "ARIZ VS UCLA",
-      "date": "2026-11-03T03:00Z",
-      "state": "pre",
-      "status": "11/2 - 10:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "26",
-        "abbr": "UCLA",
-        "name": "UCLA Bruins",
-        "score": "0"
-      },
-      "away": {
-        "id": "12",
-        "abbr": "ARIZ",
-        "name": "Arizona Wildcats",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401926771",
-      "name": "Milwaukee Panthers at USC Trojans",
-      "shortName": "MILW @ USC",
-      "date": "2026-11-03T03:30Z",
-      "state": "pre",
-      "status": "11/2 - 10:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "30",
-        "abbr": "USC",
-        "name": "USC Trojans",
-        "score": "0"
-      },
-      "away": {
-        "id": "270",
-        "abbr": "MILW",
-        "name": "Milwaukee Panthers",
+        "id": "2029",
+        "abbr": "UAPB",
+        "name": "Arkansas-Pine Bluff Golden Lions",
         "score": "0"
       }
     }

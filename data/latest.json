@@ -1,552 +1,174 @@
 {
   "sport": "basketball",
   "league": "mens-college-basketball",
-  "date": "20261104",
-  "count": 26,
+  "date": "20261105",
+  "count": 8,
   "games": [
     {
-      "id": "401920232",
-      "name": "Framingham State Rams at Dartmouth Big Green",
-      "shortName": "FRSU @ DART",
-      "date": "2026-11-04T23:30Z",
+      "id": "401909726",
+      "name": "Wake Forest Demon Deacons at Vanderbilt Commodores",
+      "shortName": "WAKE @ VAN",
+      "date": "2026-11-05T23:00Z",
       "state": "pre",
-      "status": "11/4 - 6:30 PM EST",
+      "status": "11/5 - 6:00 PM EST",
       "completed": false,
       "home": {
-        "id": "159",
-        "abbr": "DART",
-        "name": "Dartmouth Big Green",
+        "id": "238",
+        "abbr": "VAN",
+        "name": "Vanderbilt Commodores",
         "score": "0"
       },
       "away": {
-        "id": "126956",
-        "abbr": "FRSU",
-        "name": "Framingham State Rams",
+        "id": "154",
+        "abbr": "WAKE",
+        "name": "Wake Forest Demon Deacons",
         "score": "0"
       }
     },
     {
-      "id": "401929450",
-      "name": "Regent Regent Royals at Old Dominion Monarchs",
-      "shortName": "RGNT @ ODU",
-      "date": "2026-11-05T00:00Z",
+      "id": "401906770",
+      "name": "Jacksonville Dolphins at Florida Gators",
+      "shortName": "JAX @ FLA",
+      "date": "2026-11-06T01:00Z",
       "state": "pre",
-      "status": "11/4 - 7:00 PM EST",
+      "status": "11/5 - 8:00 PM EST",
       "completed": false,
       "home": {
-        "id": "295",
-        "abbr": "ODU",
-        "name": "Old Dominion Monarchs",
+        "id": "57",
+        "abbr": "FLA",
+        "name": "Florida Gators",
         "score": "0"
       },
       "away": {
-        "id": "131784",
-        "abbr": "RGNT",
-        "name": "Regent Regent Royals",
+        "id": "294",
+        "abbr": "JAX",
+        "name": "Jacksonville Dolphins",
         "score": "0"
       }
     },
     {
-      "id": "401929438",
-      "name": "Christendom Crusaders at App State Mountaineers",
-      "shortName": "CTDM @ APP",
-      "date": "2026-11-05T00:00Z",
+      "id": "401909563",
+      "name": "Coastal Carolina Chanticleers at Duke Blue Devils",
+      "shortName": "CCU @ DUKE",
+      "date": "2026-11-06T01:00Z",
       "state": "pre",
-      "status": "11/4 - 7:00 PM EST",
+      "status": "11/5 - 8:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2026",
-        "abbr": "APP",
-        "name": "App State Mountaineers",
+        "id": "150",
+        "abbr": "DUKE",
+        "name": "Duke Blue Devils",
         "score": "0"
       },
       "away": {
-        "id": "111180",
-        "abbr": "CTDM",
-        "name": "Christendom Crusaders",
+        "id": "324",
+        "abbr": "CCU",
+        "name": "Coastal Carolina Chanticleers",
         "score": "0"
       }
     },
     {
-      "id": "401928853",
-      "name": "Virginia Lynchburg Dragons at Morgan State Bears",
-      "shortName": "VUL @ MORG",
-      "date": "2026-11-05T00:00Z",
+      "id": "401925754",
+      "name": "Toledo Rockets at Michigan State Spartans",
+      "shortName": "TOL @ MSU",
+      "date": "2026-11-06T01:00Z",
       "state": "pre",
-      "status": "11/4 - 7:00 PM EST",
+      "status": "11/5 - 8:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2415",
-        "abbr": "MORG",
-        "name": "Morgan State Bears",
+        "id": "127",
+        "abbr": "MSU",
+        "name": "Michigan State Spartans",
         "score": "0"
       },
       "away": {
-        "id": "3229",
-        "abbr": "VUL",
-        "name": "Virginia Lynchburg Dragons",
+        "id": "2649",
+        "abbr": "TOL",
+        "name": "Toledo Rockets",
         "score": "0"
       }
     },
     {
-      "id": "401926142",
-      "name": "Concordia Chicago Cougars at SIU Edwardsville Cougars",
-      "shortName": "CUC @ SIUE",
-      "date": "2026-11-05T00:00Z",
+      "id": "401906864",
+      "name": "Gardner-Webb Runnin' Bulldogs at Texas Longhorns",
+      "shortName": "GWEB @ TEX",
+      "date": "2026-11-06T01:00Z",
       "state": "pre",
-      "status": "11/4 - 7:00 PM EST",
+      "status": "11/5 - 8:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2565",
-        "abbr": "SIUE",
-        "name": "SIU Edwardsville Cougars",
+        "id": "251",
+        "abbr": "TEX",
+        "name": "Texas Longhorns",
         "score": "0"
       },
       "away": {
-        "id": "2151",
-        "abbr": "CUC",
-        "name": "Concordia Chicago Cougars",
+        "id": "2241",
+        "abbr": "GWEB",
+        "name": "Gardner-Webb Runnin' Bulldogs",
         "score": "0"
       }
     },
     {
-      "id": "401922290",
-      "name": "Erskine Flying Fleet at UNC Asheville Bulldogs",
-      "shortName": "ERSK @ UNCA",
-      "date": "2026-11-05T00:00Z",
+      "id": "401913526",
+      "name": "Pennsylvania Quakers at Illinois Fighting Illini",
+      "shortName": "PENN @ ILL",
+      "date": "2026-11-06T01:30Z",
       "state": "pre",
-      "status": "11/4 - 7:00 PM EST",
+      "status": "11/5 - 8:30 PM EST",
       "completed": false,
       "home": {
-        "id": "2427",
-        "abbr": "UNCA",
-        "name": "UNC Asheville Bulldogs",
+        "id": "356",
+        "abbr": "ILL",
+        "name": "Illinois Fighting Illini",
         "score": "0"
       },
       "away": {
-        "id": "2215",
-        "abbr": "ERSK",
-        "name": "Erskine Flying Fleet",
+        "id": "219",
+        "abbr": "PENN",
+        "name": "Pennsylvania Quakers",
         "score": "0"
       }
     },
     {
-      "id": "401920410",
-      "name": "Maryland Eastern Shore Hawks at High Point Panthers",
-      "shortName": "UMES @ HPU",
-      "date": "2026-11-05T00:00Z",
+      "id": "401921133",
+      "name": "Bethune-Cookman Wildcats at Texas Tech Red Raiders",
+      "shortName": "BCU @ TTU",
+      "date": "2026-11-06T02:00Z",
       "state": "pre",
-      "status": "11/4 - 7:00 PM EST",
+      "status": "11/5 - 9:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2272",
-        "abbr": "HPU",
-        "name": "High Point Panthers",
+        "id": "2641",
+        "abbr": "TTU",
+        "name": "Texas Tech Red Raiders",
         "score": "0"
       },
       "away": {
-        "id": "2379",
-        "abbr": "UMES",
-        "name": "Maryland Eastern Shore Hawks",
+        "id": "2065",
+        "abbr": "BCU",
+        "name": "Bethune-Cookman Wildcats",
         "score": "0"
       }
     },
     {
-      "id": "401920191",
-      "name": "Longwood Lancers at Saint Joseph's Hawks",
-      "shortName": "LONG @ JOES",
-      "date": "2026-11-05T00:00Z",
+      "id": "401909739",
+      "name": "Cal Poly Mustangs at Arizona Wildcats",
+      "shortName": "CP @ ARIZ",
+      "date": "2026-11-06T03:30Z",
       "state": "pre",
-      "status": "11/4 - 7:00 PM EST",
+      "status": "11/5 - 10:30 PM EST",
       "completed": false,
       "home": {
-        "id": "2603",
-        "abbr": "JOES",
-        "name": "Saint Joseph's Hawks",
+        "id": "12",
+        "abbr": "ARIZ",
+        "name": "Arizona Wildcats",
         "score": "0"
       },
       "away": {
-        "id": "2344",
-        "abbr": "LONG",
-        "name": "Longwood Lancers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401902276",
-      "name": "Fairleigh Dickinson Knights at Butler Bulldogs",
-      "shortName": "FDU @ BTLR",
-      "date": "2026-11-05T00:00Z",
-      "state": "pre",
-      "status": "11/4 - 7:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2086",
-        "abbr": "BTLR",
-        "name": "Butler Bulldogs",
-        "score": "0"
-      },
-      "away": {
-        "id": "161",
-        "abbr": "FDU",
-        "name": "Fairleigh Dickinson Knights",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401927361",
-      "name": "Central College Dutch at Drake Bulldogs",
-      "shortName": "CNTC @ DRKE",
-      "date": "2026-11-05T00:30Z",
-      "state": "pre",
-      "status": "11/4 - 7:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2181",
-        "abbr": "DRKE",
-        "name": "Drake Bulldogs",
-        "score": "0"
-      },
-      "away": {
-        "id": "2964",
-        "abbr": "CNTC",
-        "name": "Central College Dutch",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401926214",
-      "name": "Blue Mountain Christian Toppers at Tennessee Tech Golden Eagles",
-      "shortName": "BMCU @ TNTC",
-      "date": "2026-11-05T00:30Z",
-      "state": "pre",
-      "status": "11/4 - 7:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2635",
-        "abbr": "TNTC",
-        "name": "Tennessee Tech Golden Eagles",
-        "score": "0"
-      },
-      "away": {
-        "id": "494",
-        "abbr": "BMCU",
-        "name": "Blue Mountain Christian Toppers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401926151",
-      "name": "Webster Gorloks at Southeast Missouri State Redhawks",
-      "shortName": "WEBS @ SEMO",
-      "date": "2026-11-05T00:30Z",
-      "state": "pre",
-      "status": "11/4 - 7:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2546",
-        "abbr": "SEMO",
-        "name": "Southeast Missouri State Redhawks",
-        "score": "0"
-      },
-      "away": {
-        "id": "2693",
-        "abbr": "WEBS",
-        "name": "Webster Gorloks",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401926111",
-      "name": "Bob Jones Bruins at Furman Paladins",
-      "shortName": "BOBJ @ FUR",
-      "date": "2026-11-05T00:30Z",
-      "state": "pre",
-      "status": "11/4 - 7:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "231",
-        "abbr": "FUR",
-        "name": "Furman Paladins",
-        "score": "0"
-      },
-      "away": {
-        "id": "3243",
-        "abbr": "BOBJ",
-        "name": "Bob Jones Bruins",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401919028",
-      "name": "Cal State Northridge Matadors at Wichita State Shockers",
-      "shortName": "CSUN @ WICH",
-      "date": "2026-11-05T00:30Z",
-      "state": "pre",
-      "status": "11/4 - 7:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2724",
-        "abbr": "WICH",
-        "name": "Wichita State Shockers",
-        "score": "0"
-      },
-      "away": {
-        "id": "2463",
-        "abbr": "CSUN",
-        "name": "Cal State Northridge Matadors",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401917977",
-      "name": "Champion Christian Tigers at UL Monroe Warhawks",
-      "shortName": "CHCC @ ULM",
-      "date": "2026-11-05T00:30Z",
-      "state": "pre",
-      "status": "11/4 - 7:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2433",
-        "abbr": "ULM",
-        "name": "UL Monroe Warhawks",
-        "score": "0"
-      },
-      "away": {
-        "id": "3134",
-        "abbr": "CHCC",
-        "name": "Champion Christian Tigers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401928811",
-      "name": "Northern Kentucky Norse at South Dakota Coyotes",
-      "shortName": "NKU @ SDAK",
-      "date": "2026-11-05T01:00Z",
-      "state": "pre",
-      "status": "11/4 - 8:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "233",
-        "abbr": "SDAK",
-        "name": "South Dakota Coyotes",
-        "score": "0"
-      },
-      "away": {
-        "id": "94",
-        "abbr": "NKU",
-        "name": "Northern Kentucky Norse",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401925893",
-      "name": "Randolph Wildcats at Norfolk State Spartans",
-      "shortName": "RDPH @ NORF",
-      "date": "2026-11-05T01:00Z",
-      "state": "pre",
-      "status": "11/4 - 8:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2450",
-        "abbr": "NORF",
-        "name": "Norfolk State Spartans",
-        "score": "0"
-      },
-      "away": {
-        "id": "3153",
-        "abbr": "RDPH",
-        "name": "Randolph Wildcats",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401923391",
-      "name": "Saint Mary of the Woods Pomeroys at Southern Indiana Screaming Eagles",
-      "shortName": "SMWC @ USI",
-      "date": "2026-11-05T01:00Z",
-      "state": "pre",
-      "status": "11/4 - 8:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "88",
-        "abbr": "USI",
-        "name": "Southern Indiana Screaming Eagles",
-        "score": "0"
-      },
-      "away": {
-        "id": "126824",
-        "abbr": "SMWC",
-        "name": "Saint Mary of the Woods Pomeroys",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401920798",
-      "name": "SE Louisiana Lions at Auburn Tigers",
-      "shortName": "SELA @ AUB",
-      "date": "2026-11-05T01:00Z",
-      "state": "pre",
-      "status": "11/4 - 8:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2",
-        "abbr": "AUB",
-        "name": "Auburn Tigers",
-        "score": "0"
-      },
-      "away": {
-        "id": "2545",
-        "abbr": "SELA",
-        "name": "SE Louisiana Lions",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401929171",
-      "name": "West Coast Baptist Eagles at Boise State Broncos",
-      "shortName": "WCBC @ BOIS",
-      "date": "2026-11-05T02:00Z",
-      "state": "pre",
-      "status": "11/4 - 9:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "68",
-        "abbr": "BOIS",
-        "name": "Boise State Broncos",
-        "score": "0"
-      },
-      "away": {
-        "id": "110418",
-        "abbr": "WCBC",
-        "name": "West Coast Baptist Eagles",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401925939",
-      "name": "Grace University Lancers at Utah Tech Trailblazers",
-      "shortName": "GRCU @ UTU",
-      "date": "2026-11-05T02:00Z",
-      "state": "pre",
-      "status": "11/4 - 9:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "3101",
-        "abbr": "UTU",
-        "name": "Utah Tech Trailblazers",
-        "score": "0"
-      },
-      "away": {
-        "id": "134743",
-        "abbr": "GRCU",
-        "name": "Grace University Lancers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401922030",
-      "name": "Salish Kootenai Bison at Montana Grizzlies",
-      "shortName": "SKC @ MONT",
-      "date": "2026-11-05T02:00Z",
-      "state": "pre",
-      "status": "11/4 - 9:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "149",
-        "abbr": "MONT",
-        "name": "Montana Grizzlies",
-        "score": "0"
-      },
-      "away": {
-        "id": "131858",
-        "abbr": "SKC",
-        "name": "Salish Kootenai Bison",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401918052",
-      "name": "Radford Highlanders at California Golden Bears",
-      "shortName": "RAD @ CAL",
-      "date": "2026-11-05T02:00Z",
-      "state": "pre",
-      "status": "11/4 - 9:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "25",
-        "abbr": "CAL",
-        "name": "California Golden Bears",
-        "score": "0"
-      },
-      "away": {
-        "id": "2515",
-        "abbr": "RAD",
-        "name": "Radford Highlanders",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401917514",
-      "name": "Queens University Royals at Loyola Marymount Lions",
-      "shortName": "QUC @ LMU",
-      "date": "2026-11-05T03:00Z",
-      "state": "pre",
-      "status": "11/4 - 10:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2351",
-        "abbr": "LMU",
-        "name": "Loyola Marymount Lions",
-        "score": "0"
-      },
-      "away": {
-        "id": "2511",
-        "abbr": "QUC",
-        "name": "Queens University Royals",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401917513",
-      "name": "Milwaukee Panthers at Santa Clara Broncos",
-      "shortName": "MILW @ SCU",
-      "date": "2026-11-05T03:00Z",
-      "state": "pre",
-      "status": "11/4 - 10:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2541",
-        "abbr": "SCU",
-        "name": "Santa Clara Broncos",
-        "score": "0"
-      },
-      "away": {
-        "id": "270",
-        "abbr": "MILW",
-        "name": "Milwaukee Panthers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401917512",
-      "name": "North Dakota State Bison at Saint Mary's Gaels",
-      "shortName": "NDSU @ SMC",
-      "date": "2026-11-05T03:00Z",
-      "state": "pre",
-      "status": "11/4 - 10:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2608",
-        "abbr": "SMC",
-        "name": "Saint Mary's Gaels",
-        "score": "0"
-      },
-      "away": {
-        "id": "2449",
-        "abbr": "NDSU",
-        "name": "North Dakota State Bison",
+        "id": "13",
+        "abbr": "CP",
+        "name": "Cal Poly Mustangs",
         "score": "0"
       }
     }

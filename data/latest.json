@@ -1,48 +1,90 @@
 {
   "sport": "basketball",
   "league": "mens-college-basketball",
-  "date": "20261107",
-  "count": 2,
+  "date": "20261108",
+  "count": 4,
   "games": [
     {
-      "id": "401918948",
-      "name": "Morehead State Eagles at Louisville Cardinals",
-      "shortName": "MORE @ LOU",
-      "date": "2026-11-07T17:00Z",
+      "id": "401924646",
+      "name": "Iona Gaels at St. John's Red Storm",
+      "shortName": "IONA @ SJU",
+      "date": "2026-11-08T17:00Z",
       "state": "in",
-      "status": "3:34 - 1st",
+      "status": "0:50 - 1st",
       "completed": false,
       "home": {
-        "id": "97",
-        "abbr": "LOU",
-        "name": "Louisville Cardinals",
-        "score": "39"
+        "id": "2599",
+        "abbr": "SJU",
+        "name": "St. John's Red Storm",
+        "score": "54"
       },
       "away": {
-        "id": "2413",
-        "abbr": "MORE",
-        "name": "Morehead State Eagles",
-        "score": "25"
+        "id": "314",
+        "abbr": "IONA",
+        "name": "Iona Gaels",
+        "score": "23"
       }
     },
     {
-      "id": "401928788",
-      "name": "New Mexico State Aggies at Gonzaga Bulldogs",
-      "shortName": "NMSU @ GONZ",
-      "date": "2026-11-07T22:00Z",
+      "id": "401920424",
+      "name": "Arkansas Razorbacks at Virginia Cavaliers",
+      "shortName": "ARK VS UVA",
+      "date": "2026-11-08T18:00Z",
       "state": "pre",
-      "status": "11/7 - 5:00 PM EST",
+      "status": "11/8 - 1:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2250",
-        "abbr": "GONZ",
-        "name": "Gonzaga Bulldogs",
+        "id": "258",
+        "abbr": "UVA",
+        "name": "Virginia Cavaliers",
         "score": "0"
       },
       "away": {
-        "id": "166",
-        "abbr": "NMSU",
-        "name": "New Mexico State Aggies",
+        "id": "8",
+        "abbr": "ARK",
+        "name": "Arkansas Razorbacks",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401918053",
+      "name": "Houston Cougars at California Golden Bears",
+      "shortName": "HOU VS CAL",
+      "date": "2026-11-09T01:30Z",
+      "state": "pre",
+      "status": "11/8 - 8:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "25",
+        "abbr": "CAL",
+        "name": "California Golden Bears",
+        "score": "0"
+      },
+      "away": {
+        "id": "248",
+        "abbr": "HOU",
+        "name": "Houston Cougars",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401919029",
+      "name": "USC Trojans at Wichita State Shockers",
+      "shortName": "USC VS WICH",
+      "date": "2026-11-09T04:00Z",
+      "state": "pre",
+      "status": "11/8 - 11:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2724",
+        "abbr": "WICH",
+        "name": "Wichita State Shockers",
+        "score": "0"
+      },
+      "away": {
+        "id": "30",
+        "abbr": "USC",
+        "name": "USC Trojans",
         "score": "0"
       }
     }

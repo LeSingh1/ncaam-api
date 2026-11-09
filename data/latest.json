@@ -1,90 +1,111 @@
 {
   "sport": "basketball",
   "league": "mens-college-basketball",
-  "date": "20261108",
-  "count": 4,
+  "date": "20261109",
+  "count": 5,
   "games": [
     {
-      "id": "401924646",
-      "name": "Iona Gaels at St. John's Red Storm",
-      "shortName": "IONA @ SJU",
-      "date": "2026-11-08T17:00Z",
-      "state": "in",
-      "status": "0:50 - 1st",
-      "completed": false,
-      "home": {
-        "id": "2599",
-        "abbr": "SJU",
-        "name": "St. John's Red Storm",
-        "score": "54"
-      },
-      "away": {
-        "id": "314",
-        "abbr": "IONA",
-        "name": "Iona Gaels",
-        "score": "23"
-      }
-    },
-    {
-      "id": "401920424",
-      "name": "Arkansas Razorbacks at Virginia Cavaliers",
-      "shortName": "ARK VS UVA",
-      "date": "2026-11-08T18:00Z",
+      "id": "401920686",
+      "name": "Wagner Seahawks at UConn Huskies",
+      "shortName": "WAG @ CONN",
+      "date": "2026-11-10T00:00Z",
       "state": "pre",
-      "status": "11/8 - 1:00 PM EST",
+      "status": "11/9 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "258",
-        "abbr": "UVA",
-        "name": "Virginia Cavaliers",
+        "id": "41",
+        "abbr": "CONN",
+        "name": "UConn Huskies",
         "score": "0"
       },
       "away": {
-        "id": "8",
-        "abbr": "ARK",
-        "name": "Arkansas Razorbacks",
+        "id": "2681",
+        "abbr": "WAG",
+        "name": "Wagner Seahawks",
         "score": "0"
       }
     },
     {
-      "id": "401918053",
-      "name": "Houston Cougars at California Golden Bears",
-      "shortName": "HOU VS CAL",
-      "date": "2026-11-09T01:30Z",
+      "id": "401906865",
+      "name": "Grambling Tigers at Texas Longhorns",
+      "shortName": "GRAM @ TEX",
+      "date": "2026-11-10T00:00Z",
       "state": "pre",
-      "status": "11/8 - 8:30 PM EST",
+      "status": "11/9 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "25",
-        "abbr": "CAL",
-        "name": "California Golden Bears",
+        "id": "251",
+        "abbr": "TEX",
+        "name": "Texas Longhorns",
         "score": "0"
       },
       "away": {
-        "id": "248",
-        "abbr": "HOU",
-        "name": "Houston Cougars",
+        "id": "2755",
+        "abbr": "GRAM",
+        "name": "Grambling Tigers",
         "score": "0"
       }
     },
     {
-      "id": "401919029",
-      "name": "USC Trojans at Wichita State Shockers",
-      "shortName": "USC VS WICH",
-      "date": "2026-11-09T04:00Z",
+      "id": "401906849",
+      "name": "Radford Highlanders at Tennessee Volunteers",
+      "shortName": "RAD @ TENN",
+      "date": "2026-11-10T00:00Z",
       "state": "pre",
-      "status": "11/8 - 11:00 PM EST",
+      "status": "11/9 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2724",
-        "abbr": "WICH",
-        "name": "Wichita State Shockers",
+        "id": "2633",
+        "abbr": "TENN",
+        "name": "Tennessee Volunteers",
         "score": "0"
       },
       "away": {
-        "id": "30",
-        "abbr": "USC",
-        "name": "USC Trojans",
+        "id": "2515",
+        "abbr": "RAD",
+        "name": "Radford Highlanders",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401921720",
+      "name": "North Florida Ospreys at Miami Hurricanes",
+      "shortName": "UNF @ MIA",
+      "date": "2026-11-10T00:00Z",
+      "state": "pre",
+      "status": "11/9 - 7:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2390",
+        "abbr": "MIA",
+        "name": "Miami Hurricanes",
+        "score": "0"
+      },
+      "away": {
+        "id": "2454",
+        "abbr": "UNF",
+        "name": "North Florida Ospreys",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401906759",
+      "name": "Oakland Golden Grizzlies at Alabama Crimson Tide",
+      "shortName": "OAK @ ALA",
+      "date": "2026-11-10T00:30Z",
+      "state": "pre",
+      "status": "11/9 - 7:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "333",
+        "abbr": "ALA",
+        "name": "Alabama Crimson Tide",
+        "score": "0"
+      },
+      "away": {
+        "id": "2473",
+        "abbr": "OAK",
+        "name": "Oakland Golden Grizzlies",
         "score": "0"
       }
     }

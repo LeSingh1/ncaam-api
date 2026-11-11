@@ -1,174 +1,153 @@
 {
   "sport": "basketball",
   "league": "mens-college-basketball",
-  "date": "20261110",
-  "count": 8,
+  "date": "20261111",
+  "count": 7,
   "games": [
     {
-      "id": "401906771",
-      "name": "Florida Gators at Florida State Seminoles",
-      "shortName": "FLA @ FSU",
-      "date": "2026-11-10T23:00Z",
+      "id": "401920680",
+      "name": "Colgate Raiders at St. John's Red Storm",
+      "shortName": "COLG @ SJU",
+      "date": "2026-11-12T00:00Z",
       "state": "pre",
-      "status": "11/10 - 6:00 PM EST",
+      "status": "11/11 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "52",
-        "abbr": "FSU",
-        "name": "Florida State Seminoles",
+        "id": "2599",
+        "abbr": "SJU",
+        "name": "St. John's Red Storm",
         "score": "0"
       },
       "away": {
-        "id": "57",
-        "abbr": "FLA",
-        "name": "Florida Gators",
+        "id": "2142",
+        "abbr": "COLG",
+        "name": "Colgate Raiders",
         "score": "0"
       }
     },
     {
-      "id": "401909564",
-      "name": "Michigan State Spartans at Duke Blue Devils",
-      "shortName": "MSU VS DUKE",
-      "date": "2026-11-11T00:00Z",
+      "id": "401909524",
+      "name": "Marquette Golden Eagles at Michigan Wolverines",
+      "shortName": "MARQ @ MICH",
+      "date": "2026-11-12T00:00Z",
       "state": "pre",
-      "status": "11/10 - 7:00 PM EST",
+      "status": "11/11 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "150",
-        "abbr": "DUKE",
-        "name": "Duke Blue Devils",
+        "id": "130",
+        "abbr": "MICH",
+        "name": "Michigan Wolverines",
         "score": "0"
       },
       "away": {
-        "id": "127",
-        "abbr": "MSU",
-        "name": "Michigan State Spartans",
+        "id": "269",
+        "abbr": "MARQ",
+        "name": "Marquette Golden Eagles",
         "score": "0"
       }
     },
     {
-      "id": "401918987",
-      "name": "Memphis Tigers at Vanderbilt Commodores",
-      "shortName": "MEM @ VAN",
-      "date": "2026-11-11T00:15Z",
+      "id": "401925702",
+      "name": "Jacksonville State Gamecocks at Houston Cougars",
+      "shortName": "JXST @ HOU",
+      "date": "2026-11-12T01:00Z",
       "state": "pre",
-      "status": "11/10 - 7:15 PM EST",
+      "status": "11/11 - 8:00 PM EST",
       "completed": false,
       "home": {
-        "id": "238",
-        "abbr": "VAN",
-        "name": "Vanderbilt Commodores",
+        "id": "248",
+        "abbr": "HOU",
+        "name": "Houston Cougars",
         "score": "0"
       },
       "away": {
-        "id": "235",
-        "abbr": "MEM",
-        "name": "Memphis Tigers",
+        "id": "55",
+        "abbr": "JXST",
+        "name": "Jacksonville State Gamecocks",
         "score": "0"
       }
     },
     {
-      "id": "401913527",
-      "name": "Illinois Fighting Illini at Texas Tech Red Raiders",
-      "shortName": "ILL @ TTU",
-      "date": "2026-11-11T01:00Z",
+      "id": "401928824",
+      "name": "Robert Morris Colonials at Arkansas Razorbacks",
+      "shortName": "RMU @ ARK",
+      "date": "2026-11-12T01:00Z",
       "state": "pre",
-      "status": "11/10 - 8:00 PM EST",
+      "status": "11/11 - 8:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2641",
-        "abbr": "TTU",
-        "name": "Texas Tech Red Raiders",
+        "id": "8",
+        "abbr": "ARK",
+        "name": "Arkansas Razorbacks",
         "score": "0"
       },
       "away": {
-        "id": "356",
-        "abbr": "ILL",
-        "name": "Illinois Fighting Illini",
+        "id": "2523",
+        "abbr": "RMU",
+        "name": "Robert Morris Colonials",
         "score": "0"
       }
     },
     {
-      "id": "401920425",
-      "name": "Bucknell Bison at Virginia Cavaliers",
-      "shortName": "BUCK @ UVA",
-      "date": "2026-11-11T02:00Z",
+      "id": "401930177",
+      "name": "Arkansas-Pine Bluff Golden Lions at UCLA Bruins",
+      "shortName": "UAPB @ UCLA",
+      "date": "2026-11-12T02:00Z",
       "state": "pre",
-      "status": "11/10 - 9:00 PM EST",
+      "status": "11/11 - 9:00 PM EST",
       "completed": false,
       "home": {
-        "id": "258",
-        "abbr": "UVA",
-        "name": "Virginia Cavaliers",
+        "id": "26",
+        "abbr": "UCLA",
+        "name": "UCLA Bruins",
         "score": "0"
       },
       "away": {
-        "id": "2083",
-        "abbr": "BUCK",
-        "name": "Bucknell Bison",
+        "id": "2029",
+        "abbr": "UAPB",
+        "name": "Arkansas-Pine Bluff Golden Lions",
         "score": "0"
       }
     },
     {
-      "id": "401909740",
-      "name": "Northern Arizona Lumberjacks at Arizona Wildcats",
-      "shortName": "NAU @ ARIZ",
-      "date": "2026-11-11T02:00Z",
+      "id": "401926062",
+      "name": "Lindenwood Lions at Nebraska Cornhuskers",
+      "shortName": "LIN @ NEB",
+      "date": "2026-11-12T02:00Z",
       "state": "pre",
-      "status": "11/10 - 9:00 PM EST",
+      "status": "11/11 - 9:00 PM EST",
       "completed": false,
       "home": {
-        "id": "12",
-        "abbr": "ARIZ",
-        "name": "Arizona Wildcats",
+        "id": "158",
+        "abbr": "NEB",
+        "name": "Nebraska Cornhuskers",
         "score": "0"
       },
       "away": {
-        "id": "2464",
-        "abbr": "NAU",
-        "name": "Northern Arizona Lumberjacks",
+        "id": "2815",
+        "abbr": "LIN",
+        "name": "Lindenwood Lions",
         "score": "0"
       }
     },
     {
-      "id": "401921740",
-      "name": "Queens University Royals at BYU Cougars",
-      "shortName": "QUC @ BYU",
-      "date": "2026-11-11T02:00Z",
+      "id": "401918054",
+      "name": "USC Trojans at California Golden Bears",
+      "shortName": "USC @ CAL",
+      "date": "2026-11-12T04:00Z",
       "state": "pre",
-      "status": "11/10 - 9:00 PM EST",
+      "status": "11/11 - 11:00 PM EST",
       "completed": false,
       "home": {
-        "id": "252",
-        "abbr": "BYU",
-        "name": "BYU Cougars",
+        "id": "25",
+        "abbr": "CAL",
+        "name": "California Golden Bears",
         "score": "0"
       },
       "away": {
-        "id": "2511",
-        "abbr": "QUC",
-        "name": "Queens University Royals",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401909786",
-      "name": "Kansas Jayhawks at Kentucky Wildcats",
-      "shortName": "KU VS UK",
-      "date": "2026-11-11T02:30Z",
-      "state": "pre",
-      "status": "11/10 - 9:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "96",
-        "abbr": "UK",
-        "name": "Kentucky Wildcats",
-        "score": "0"
-      },
-      "away": {
-        "id": "2305",
-        "abbr": "KU",
-        "name": "Kansas Jayhawks",
+        "id": "30",
+        "abbr": "USC",
+        "name": "USC Trojans",
         "score": "0"
       }
     }

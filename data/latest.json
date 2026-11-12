@@ -1,153 +1,27 @@
 {
   "sport": "basketball",
   "league": "mens-college-basketball",
-  "date": "20261111",
-  "count": 7,
+  "date": "20261112",
+  "count": 1,
   "games": [
     {
-      "id": "401920680",
-      "name": "Colgate Raiders at St. John's Red Storm",
-      "shortName": "COLG @ SJU",
-      "date": "2026-11-12T00:00Z",
+      "id": "401921741",
+      "name": "Montana State Bobcats at BYU Cougars",
+      "shortName": "MTST @ BYU",
+      "date": "2026-11-13T02:00Z",
       "state": "pre",
-      "status": "11/11 - 7:00 PM EST",
+      "status": "11/12 - 9:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2599",
-        "abbr": "SJU",
-        "name": "St. John's Red Storm",
+        "id": "252",
+        "abbr": "BYU",
+        "name": "BYU Cougars",
         "score": "0"
       },
       "away": {
-        "id": "2142",
-        "abbr": "COLG",
-        "name": "Colgate Raiders",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401909524",
-      "name": "Marquette Golden Eagles at Michigan Wolverines",
-      "shortName": "MARQ @ MICH",
-      "date": "2026-11-12T00:00Z",
-      "state": "pre",
-      "status": "11/11 - 7:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "130",
-        "abbr": "MICH",
-        "name": "Michigan Wolverines",
-        "score": "0"
-      },
-      "away": {
-        "id": "269",
-        "abbr": "MARQ",
-        "name": "Marquette Golden Eagles",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401925702",
-      "name": "Jacksonville State Gamecocks at Houston Cougars",
-      "shortName": "JXST @ HOU",
-      "date": "2026-11-12T01:00Z",
-      "state": "pre",
-      "status": "11/11 - 8:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "248",
-        "abbr": "HOU",
-        "name": "Houston Cougars",
-        "score": "0"
-      },
-      "away": {
-        "id": "55",
-        "abbr": "JXST",
-        "name": "Jacksonville State Gamecocks",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401928824",
-      "name": "Robert Morris Colonials at Arkansas Razorbacks",
-      "shortName": "RMU @ ARK",
-      "date": "2026-11-12T01:00Z",
-      "state": "pre",
-      "status": "11/11 - 8:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "8",
-        "abbr": "ARK",
-        "name": "Arkansas Razorbacks",
-        "score": "0"
-      },
-      "away": {
-        "id": "2523",
-        "abbr": "RMU",
-        "name": "Robert Morris Colonials",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401930177",
-      "name": "Arkansas-Pine Bluff Golden Lions at UCLA Bruins",
-      "shortName": "UAPB @ UCLA",
-      "date": "2026-11-12T02:00Z",
-      "state": "pre",
-      "status": "11/11 - 9:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "26",
-        "abbr": "UCLA",
-        "name": "UCLA Bruins",
-        "score": "0"
-      },
-      "away": {
-        "id": "2029",
-        "abbr": "UAPB",
-        "name": "Arkansas-Pine Bluff Golden Lions",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401926062",
-      "name": "Lindenwood Lions at Nebraska Cornhuskers",
-      "shortName": "LIN @ NEB",
-      "date": "2026-11-12T02:00Z",
-      "state": "pre",
-      "status": "11/11 - 9:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "158",
-        "abbr": "NEB",
-        "name": "Nebraska Cornhuskers",
-        "score": "0"
-      },
-      "away": {
-        "id": "2815",
-        "abbr": "LIN",
-        "name": "Lindenwood Lions",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401918054",
-      "name": "USC Trojans at California Golden Bears",
-      "shortName": "USC @ CAL",
-      "date": "2026-11-12T04:00Z",
-      "state": "pre",
-      "status": "11/11 - 11:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "25",
-        "abbr": "CAL",
-        "name": "California Golden Bears",
-        "score": "0"
-      },
-      "away": {
-        "id": "30",
-        "abbr": "USC",
-        "name": "USC Trojans",
+        "id": "147",
+        "abbr": "MTST",
+        "name": "Montana State Bobcats",
         "score": "0"
       }
     }

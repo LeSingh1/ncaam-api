@@ -1,27 +1,279 @@
 {
   "sport": "basketball",
   "league": "mens-college-basketball",
-  "date": "20261112",
-  "count": 1,
+  "date": "20261113",
+  "count": 13,
   "games": [
     {
-      "id": "401921741",
-      "name": "Montana State Bobcats at BYU Cougars",
-      "shortName": "MTST @ BYU",
-      "date": "2026-11-13T02:00Z",
+      "id": "401921721",
+      "name": "North Alabama Lions at Miami Hurricanes",
+      "shortName": "UNA @ MIA",
+      "date": "2026-11-13T22:00Z",
       "state": "pre",
-      "status": "11/12 - 9:00 PM EST",
+      "status": "11/13 - 5:00 PM EST",
       "completed": false,
       "home": {
-        "id": "252",
-        "abbr": "BYU",
-        "name": "BYU Cougars",
+        "id": "2390",
+        "abbr": "MIA",
+        "name": "Miami Hurricanes",
         "score": "0"
       },
       "away": {
-        "id": "147",
-        "abbr": "MTST",
-        "name": "Montana State Bobcats",
+        "id": "2453",
+        "abbr": "UNA",
+        "name": "North Alabama Lions",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401906772",
+      "name": "Merrimack Warriors at Florida Gators",
+      "shortName": "MRMK @ FLA",
+      "date": "2026-11-14T00:00Z",
+      "state": "pre",
+      "status": "11/13 - 7:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "57",
+        "abbr": "FLA",
+        "name": "Florida Gators",
+        "score": "0"
+      },
+      "away": {
+        "id": "2771",
+        "abbr": "MRMK",
+        "name": "Merrimack Warriors",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401913528",
+      "name": "Sam Houston Bearkats at Illinois Fighting Illini",
+      "shortName": "SHSU @ ILL",
+      "date": "2026-11-14T00:00Z",
+      "state": "pre",
+      "status": "11/13 - 7:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "356",
+        "abbr": "ILL",
+        "name": "Illinois Fighting Illini",
+        "score": "0"
+      },
+      "away": {
+        "id": "2534",
+        "abbr": "SHSU",
+        "name": "Sam Houston Bearkats",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401925755",
+      "name": "Northern Iowa Panthers at Michigan State Spartans",
+      "shortName": "UNI @ MSU",
+      "date": "2026-11-14T00:00Z",
+      "state": "pre",
+      "status": "11/13 - 7:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "127",
+        "abbr": "MSU",
+        "name": "Michigan State Spartans",
+        "score": "0"
+      },
+      "away": {
+        "id": "2460",
+        "abbr": "UNI",
+        "name": "Northern Iowa Panthers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401906850",
+      "name": "Tennessee State Tigers at Tennessee Volunteers",
+      "shortName": "TNST @ TENN",
+      "date": "2026-11-14T00:00Z",
+      "state": "pre",
+      "status": "11/13 - 7:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2633",
+        "abbr": "TENN",
+        "name": "Tennessee Volunteers",
+        "score": "0"
+      },
+      "away": {
+        "id": "2634",
+        "abbr": "TNST",
+        "name": "Tennessee State Tigers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401921825",
+      "name": "Prairie View A&M Panthers at Vanderbilt Commodores",
+      "shortName": "PV @ VAN",
+      "date": "2026-11-14T00:00Z",
+      "state": "pre",
+      "status": "11/13 - 7:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "238",
+        "abbr": "VAN",
+        "name": "Vanderbilt Commodores",
+        "score": "0"
+      },
+      "away": {
+        "id": "2504",
+        "abbr": "PV",
+        "name": "Prairie View A&M Panthers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401921803",
+      "name": "Northern Arizona Lumberjacks at Kentucky Wildcats",
+      "shortName": "NAU @ UK",
+      "date": "2026-11-14T00:00Z",
+      "state": "pre",
+      "status": "11/13 - 7:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "96",
+        "abbr": "UK",
+        "name": "Kentucky Wildcats",
+        "score": "0"
+      },
+      "away": {
+        "id": "2464",
+        "abbr": "NAU",
+        "name": "Northern Arizona Lumberjacks",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401916316",
+      "name": "Ohio State Buckeyes at UConn Huskies",
+      "shortName": "OSU @ CONN",
+      "date": "2026-11-14T00:30Z",
+      "state": "pre",
+      "status": "11/13 - 7:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "41",
+        "abbr": "CONN",
+        "name": "UConn Huskies",
+        "score": "0"
+      },
+      "away": {
+        "id": "194",
+        "abbr": "OSU",
+        "name": "Ohio State Buckeyes",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401909565",
+      "name": "SIU Edwardsville Cougars at Duke Blue Devils",
+      "shortName": "SIUE @ DUKE",
+      "date": "2026-11-14T01:00Z",
+      "state": "pre",
+      "status": "11/13 - 8:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "150",
+        "abbr": "DUKE",
+        "name": "Duke Blue Devils",
+        "score": "0"
+      },
+      "away": {
+        "id": "2565",
+        "abbr": "SIUE",
+        "name": "SIU Edwardsville Cougars",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401916297",
+      "name": "Virginia Cavaliers at Maryland Terrapins",
+      "shortName": "UVA @ MD",
+      "date": "2026-11-14T01:00Z",
+      "state": "pre",
+      "status": "11/13 - 8:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "120",
+        "abbr": "MD",
+        "name": "Maryland Terrapins",
+        "score": "0"
+      },
+      "away": {
+        "id": "258",
+        "abbr": "UVA",
+        "name": "Virginia Cavaliers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401917916",
+      "name": "Central Arkansas Bears at Arkansas Razorbacks",
+      "shortName": "CARK @ ARK",
+      "date": "2026-11-14T01:00Z",
+      "state": "pre",
+      "status": "11/13 - 8:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "8",
+        "abbr": "ARK",
+        "name": "Arkansas Razorbacks",
+        "score": "0"
+      },
+      "away": {
+        "id": "2110",
+        "abbr": "CARK",
+        "name": "Central Arkansas Bears",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401909741",
+      "name": "Arizona Wildcats at Auburn Tigers",
+      "shortName": "ARIZ @ AUB",
+      "date": "2026-11-14T02:00Z",
+      "state": "pre",
+      "status": "11/13 - 9:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2",
+        "abbr": "AUB",
+        "name": "Auburn Tigers",
+        "score": "0"
+      },
+      "away": {
+        "id": "12",
+        "abbr": "ARIZ",
+        "name": "Arizona Wildcats",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401906760",
+      "name": "Seton Hall Pirates at Alabama Crimson Tide",
+      "shortName": "HALL @ ALA",
+      "date": "2026-11-14T02:00Z",
+      "state": "pre",
+      "status": "11/13 - 9:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "333",
+        "abbr": "ALA",
+        "name": "Alabama Crimson Tide",
+        "score": "0"
+      },
+      "away": {
+        "id": "2550",
+        "abbr": "HALL",
+        "name": "Seton Hall Pirates",
         "score": "0"
       }
     }

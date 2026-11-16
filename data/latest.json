@@ -1,132 +1,27 @@
 {
   "sport": "basketball",
   "league": "mens-college-basketball",
-  "date": "20261115",
-  "count": 6,
+  "date": "20261116",
+  "count": 1,
   "games": [
     {
-      "id": "401918949",
-      "name": "Louisville Cardinals at Memphis Tigers",
-      "shortName": "LOU @ MEM",
-      "date": "2026-11-15T18:00Z",
-      "state": "in",
-      "status": "3:34 - 1st",
-      "completed": false,
-      "home": {
-        "id": "235",
-        "abbr": "MEM",
-        "name": "Memphis Tigers",
-        "score": "30"
-      },
-      "away": {
-        "id": "97",
-        "abbr": "LOU",
-        "name": "Louisville Cardinals",
-        "score": "46"
-      }
-    },
-    {
-      "id": "401926063",
-      "name": "Boise State Broncos at Nebraska Cornhuskers",
-      "shortName": "BOIS VS NEB",
-      "date": "2026-11-15T18:00Z",
-      "state": "in",
-      "status": "Halftime",
-      "completed": false,
-      "home": {
-        "id": "158",
-        "abbr": "NEB",
-        "name": "Nebraska Cornhuskers",
-        "score": "52"
-      },
-      "away": {
-        "id": "68",
-        "abbr": "BOIS",
-        "name": "Boise State Broncos",
-        "score": "34"
-      }
-    },
-    {
-      "id": "401918453",
-      "name": "William & Mary Tribe at Michigan Wolverines",
-      "shortName": "W&M @ MICH",
-      "date": "2026-11-15T19:00Z",
+      "id": "401924265",
+      "name": "Long Beach State Beach at UCLA Bruins",
+      "shortName": "LBSU @ UCLA",
+      "date": "2026-11-17T03:00Z",
       "state": "pre",
-      "status": "11/15 - 2:00 PM EST",
+      "status": "11/16 - 10:00 PM EST",
       "completed": false,
       "home": {
-        "id": "130",
-        "abbr": "MICH",
-        "name": "Michigan Wolverines",
+        "id": "26",
+        "abbr": "UCLA",
+        "name": "UCLA Bruins",
         "score": "0"
       },
       "away": {
-        "id": "2729",
-        "abbr": "W&M",
-        "name": "William & Mary Tribe",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401906866",
-      "name": "Baylor Bears at Texas Longhorns",
-      "shortName": "BAY VS TEX",
-      "date": "2026-11-15T20:00Z",
-      "state": "pre",
-      "status": "11/15 - 3:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "251",
-        "abbr": "TEX",
-        "name": "Texas Longhorns",
-        "score": "0"
-      },
-      "away": {
-        "id": "239",
-        "abbr": "BAY",
-        "name": "Baylor Bears",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401920681",
-      "name": "Syracuse Orange at St. John's Red Storm",
-      "shortName": "SYR @ SJU",
-      "date": "2026-11-16T00:00Z",
-      "state": "pre",
-      "status": "11/15 - 7:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2599",
-        "abbr": "SJU",
-        "name": "St. John's Red Storm",
-        "score": "0"
-      },
-      "away": {
-        "id": "183",
-        "abbr": "SYR",
-        "name": "Syracuse Orange",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401926772",
-      "name": "Arkansas-Pine Bluff Golden Lions at USC Trojans",
-      "shortName": "UAPB @ USC",
-      "date": "2026-11-16T00:00Z",
-      "state": "pre",
-      "status": "11/15 - 7:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "30",
-        "abbr": "USC",
-        "name": "USC Trojans",
-        "score": "0"
-      },
-      "away": {
-        "id": "2029",
-        "abbr": "UAPB",
-        "name": "Arkansas-Pine Bluff Golden Lions",
+        "id": "299",
+        "abbr": "LBSU",
+        "name": "Long Beach State Beach",
         "score": "0"
       }
     }

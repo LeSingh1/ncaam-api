@@ -1,27 +1,237 @@
 {
   "sport": "basketball",
   "league": "mens-college-basketball",
-  "date": "20261116",
-  "count": 1,
+  "date": "20261117",
+  "count": 11,
   "games": [
     {
-      "id": "401924265",
-      "name": "Long Beach State Beach at UCLA Bruins",
-      "shortName": "LBSU @ UCLA",
-      "date": "2026-11-17T03:00Z",
-      "state": "pre",
-      "status": "11/16 - 10:00 PM EST",
+      "id": "401920511",
+      "name": "Rutgers Scarlet Knights at Houston Cougars",
+      "shortName": "RUTG VS HOU",
+      "date": "2026-11-17T19:00Z",
+      "state": "in",
+      "status": "8:19 - 2nd",
       "completed": false,
       "home": {
-        "id": "26",
-        "abbr": "UCLA",
-        "name": "UCLA Bruins",
+        "id": "248",
+        "abbr": "HOU",
+        "name": "Houston Cougars",
+        "score": "66"
+      },
+      "away": {
+        "id": "164",
+        "abbr": "RUTG",
+        "name": "Rutgers Scarlet Knights",
+        "score": "53"
+      }
+    },
+    {
+      "id": "401906773",
+      "name": "Notre Dame Fighting Irish at Florida Gators",
+      "shortName": "ND VS FLA",
+      "date": "2026-11-17T21:30Z",
+      "state": "pre",
+      "status": "11/17 - 4:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "57",
+        "abbr": "FLA",
+        "name": "Florida Gators",
         "score": "0"
       },
       "away": {
-        "id": "299",
-        "abbr": "LBSU",
-        "name": "Long Beach State Beach",
+        "id": "87",
+        "abbr": "ND",
+        "name": "Notre Dame Fighting Irish",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401909566",
+      "name": "Illinois Fighting Illini at Duke Blue Devils",
+      "shortName": "ILL @ DUKE",
+      "date": "2026-11-18T00:00Z",
+      "state": "pre",
+      "status": "11/17 - 7:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "150",
+        "abbr": "DUKE",
+        "name": "Duke Blue Devils",
+        "score": "0"
+      },
+      "away": {
+        "id": "356",
+        "abbr": "ILL",
+        "name": "Illinois Fighting Illini",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401921722",
+      "name": "Rider Broncs at Miami Hurricanes",
+      "shortName": "RID @ MIA",
+      "date": "2026-11-18T00:00Z",
+      "state": "pre",
+      "status": "11/17 - 7:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2390",
+        "abbr": "MIA",
+        "name": "Miami Hurricanes",
+        "score": "0"
+      },
+      "away": {
+        "id": "2520",
+        "abbr": "RID",
+        "name": "Rider Broncs",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401906761",
+      "name": "Kennesaw State Owls at Alabama Crimson Tide",
+      "shortName": "KENN @ ALA",
+      "date": "2026-11-18T00:30Z",
+      "state": "pre",
+      "status": "11/17 - 7:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "333",
+        "abbr": "ALA",
+        "name": "Alabama Crimson Tide",
+        "score": "0"
+      },
+      "away": {
+        "id": "338",
+        "abbr": "KENN",
+        "name": "Kennesaw State Owls",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401916289",
+      "name": "Arkansas Razorbacks at Indiana Hoosiers",
+      "shortName": "ARK VS IU",
+      "date": "2026-11-18T00:30Z",
+      "state": "pre",
+      "status": "11/17 - 7:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "84",
+        "abbr": "IU",
+        "name": "Indiana Hoosiers",
+        "score": "0"
+      },
+      "away": {
+        "id": "8",
+        "abbr": "ARK",
+        "name": "Arkansas Razorbacks",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401921826",
+      "name": "Eastern Illinois Panthers at Vanderbilt Commodores",
+      "shortName": "EIU @ VAN",
+      "date": "2026-11-18T01:00Z",
+      "state": "pre",
+      "status": "11/17 - 8:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "238",
+        "abbr": "VAN",
+        "name": "Vanderbilt Commodores",
+        "score": "0"
+      },
+      "away": {
+        "id": "2197",
+        "abbr": "EIU",
+        "name": "Eastern Illinois Panthers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401906851",
+      "name": "Michigan State Spartans at Tennessee Volunteers",
+      "shortName": "MSU @ TENN",
+      "date": "2026-11-18T02:00Z",
+      "state": "pre",
+      "status": "11/17 - 9:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2633",
+        "abbr": "TENN",
+        "name": "Tennessee Volunteers",
+        "score": "0"
+      },
+      "away": {
+        "id": "127",
+        "abbr": "MSU",
+        "name": "Michigan State Spartans",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401920426",
+      "name": "Old Dominion Monarchs at Virginia Cavaliers",
+      "shortName": "ODU @ UVA",
+      "date": "2026-11-18T02:00Z",
+      "state": "pre",
+      "status": "11/17 - 9:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "258",
+        "abbr": "UVA",
+        "name": "Virginia Cavaliers",
+        "score": "0"
+      },
+      "away": {
+        "id": "295",
+        "abbr": "ODU",
+        "name": "Old Dominion Monarchs",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401909787",
+      "name": "UNLV Rebels at Kansas Jayhawks",
+      "shortName": "UNLV VS KU",
+      "date": "2026-11-18T02:30Z",
+      "state": "pre",
+      "status": "11/17 - 9:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2305",
+        "abbr": "KU",
+        "name": "Kansas Jayhawks",
+        "score": "0"
+      },
+      "away": {
+        "id": "2439",
+        "abbr": "UNLV",
+        "name": "UNLV Rebels",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401925879",
+      "name": "Montana State Bobcats at Gonzaga Bulldogs",
+      "shortName": "MTST @ GONZ",
+      "date": "2026-11-18T04:00Z",
+      "state": "pre",
+      "status": "11/17 - 11:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2250",
+        "abbr": "GONZ",
+        "name": "Gonzaga Bulldogs",
+        "score": "0"
+      },
+      "away": {
+        "id": "147",
+        "abbr": "MTST",
+        "name": "Montana State Bobcats",
         "score": "0"
       }
     }

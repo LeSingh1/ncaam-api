@@ -1,132 +1,92 @@
 {
   "sport": "basketball",
   "league": "mens-college-basketball",
-  "date": "20261120",
-  "count": 6,
+  "date": "20261121",
+  "count": 4,
   "games": [
     {
-      "id": "401921723",
-      "name": "Manhattan Jaspers at Miami Hurricanes",
-      "shortName": "MAN @ MIA",
-      "date": "2026-11-20T22:00Z",
-      "state": "pre",
-      "status": "11/20 - 5:00 PM EST",
+      "id": "401921811",
+      "name": "Queens University Royals at LSU Tigers",
+      "shortName": "QUC @ LSU",
+      "date": "2026-11-21T18:00Z",
+      "state": "in",
+      "status": "17:41 - 2nd",
       "completed": false,
       "home": {
-        "id": "2390",
-        "abbr": "MIA",
-        "name": "Miami Hurricanes",
+        "id": "99",
+        "abbr": "LSU",
+        "name": "LSU Tigers",
+        "score": "56"
+      },
+      "away": {
+        "id": "2511",
+        "abbr": "QUC",
+        "name": "Queens University Royals",
+        "score": "43"
+      }
+    },
+    {
+      "id": "401925756",
+      "name": "Detroit Mercy Titans at Michigan State Spartans",
+      "shortName": "DETM @ MSU",
+      "date": "2026-11-21T17:00Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
+      "home": {
+        "id": "127",
+        "abbr": "MSU",
+        "name": "Michigan State Spartans",
+        "score": "91",
+        "winner": true
+      },
+      "away": {
+        "id": "2174",
+        "abbr": "DETM",
+        "name": "Detroit Mercy Titans",
+        "score": "70",
+        "winner": false
+      }
+    },
+    {
+      "id": "401921776",
+      "name": "Michigan Wolverines at Villanova Wildcats",
+      "shortName": "MICH @ VILL",
+      "date": "2026-11-22T00:00Z",
+      "state": "pre",
+      "status": "11/21 - 7:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "222",
+        "abbr": "VILL",
+        "name": "Villanova Wildcats",
         "score": "0"
       },
       "away": {
-        "id": "2363",
-        "abbr": "MAN",
-        "name": "Manhattan Jaspers",
+        "id": "130",
+        "abbr": "MICH",
+        "name": "Michigan Wolverines",
         "score": "0"
       }
     },
     {
-      "id": "401920427",
-      "name": "Loyola Maryland Greyhounds at Virginia Cavaliers",
-      "shortName": "L-MD @ UVA",
-      "date": "2026-11-21T00:00Z",
+      "id": "401909567",
+      "name": "Washington State Cougars at Duke Blue Devils",
+      "shortName": "WSU VS DUKE",
+      "date": "2026-11-22T04:00Z",
       "state": "pre",
-      "status": "11/20 - 7:00 PM EST",
+      "status": "11/21 - 11:00 PM EST",
       "completed": false,
       "home": {
-        "id": "258",
-        "abbr": "UVA",
-        "name": "Virginia Cavaliers",
+        "id": "150",
+        "abbr": "DUKE",
+        "name": "Duke Blue Devils",
         "score": "0"
       },
       "away": {
-        "id": "2352",
-        "abbr": "L-MD",
-        "name": "Loyola Maryland Greyhounds",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401906852",
-      "name": "Coastal Carolina Chanticleers at Tennessee Volunteers",
-      "shortName": "CCU @ TENN",
-      "date": "2026-11-21T00:00Z",
-      "state": "pre",
-      "status": "11/20 - 7:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2633",
-        "abbr": "TENN",
-        "name": "Tennessee Volunteers",
-        "score": "0"
-      },
-      "away": {
-        "id": "324",
-        "abbr": "CCU",
-        "name": "Coastal Carolina Chanticleers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401921757",
-      "name": "UCF Knights at Vanderbilt Commodores",
-      "shortName": "UCF @ VAN",
-      "date": "2026-11-21T01:00Z",
-      "state": "pre",
-      "status": "11/20 - 8:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "238",
-        "abbr": "VAN",
-        "name": "Vanderbilt Commodores",
-        "score": "0"
-      },
-      "away": {
-        "id": "2116",
-        "abbr": "UCF",
-        "name": "UCF Knights",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401925740",
-      "name": "Mississippi Valley State Delta Devils at Arkansas Razorbacks",
-      "shortName": "MVSU @ ARK",
-      "date": "2026-11-21T01:00Z",
-      "state": "pre",
-      "status": "11/20 - 8:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "8",
-        "abbr": "ARK",
-        "name": "Arkansas Razorbacks",
-        "score": "0"
-      },
-      "away": {
-        "id": "2400",
-        "abbr": "MVSU",
-        "name": "Mississippi Valley State Delta Devils",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401913529",
-      "name": "Eastern Illinois Panthers at Illinois Fighting Illini",
-      "shortName": "EIU @ ILL",
-      "date": "2026-11-21T02:00Z",
-      "state": "pre",
-      "status": "11/20 - 9:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "356",
-        "abbr": "ILL",
-        "name": "Illinois Fighting Illini",
-        "score": "0"
-      },
-      "away": {
-        "id": "2197",
-        "abbr": "EIU",
-        "name": "Eastern Illinois Panthers",
+        "id": "265",
+        "abbr": "WSU",
+        "name": "Washington State Cougars",
         "score": "0"
       }
     }

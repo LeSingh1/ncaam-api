@@ -1,92 +1,92 @@
 {
   "sport": "basketball",
   "league": "mens-college-basketball",
-  "date": "20261121",
+  "date": "20261122",
   "count": 4,
   "games": [
     {
-      "id": "401921811",
-      "name": "Queens University Royals at LSU Tigers",
-      "shortName": "QUC @ LSU",
-      "date": "2026-11-21T18:00Z",
-      "state": "in",
-      "status": "17:41 - 2nd",
-      "completed": false,
-      "home": {
-        "id": "99",
-        "abbr": "LSU",
-        "name": "LSU Tigers",
-        "score": "56"
-      },
-      "away": {
-        "id": "2511",
-        "abbr": "QUC",
-        "name": "Queens University Royals",
-        "score": "43"
-      }
-    },
-    {
-      "id": "401925756",
-      "name": "Detroit Mercy Titans at Michigan State Spartans",
-      "shortName": "DETM @ MSU",
-      "date": "2026-11-21T17:00Z",
+      "id": "401902281",
+      "name": "Nebraska Cornhuskers at Butler Bulldogs",
+      "shortName": "NEB VS BTLR",
+      "date": "2026-11-22T17:00Z",
       "state": "post",
       "status": "Final",
       "completed": true,
       "home": {
-        "id": "127",
-        "abbr": "MSU",
-        "name": "Michigan State Spartans",
-        "score": "91",
-        "winner": true
-      },
-      "away": {
-        "id": "2174",
-        "abbr": "DETM",
-        "name": "Detroit Mercy Titans",
-        "score": "70",
+        "id": "2086",
+        "abbr": "BTLR",
+        "name": "Butler Bulldogs",
+        "score": "74",
         "winner": false
+      },
+      "away": {
+        "id": "158",
+        "abbr": "NEB",
+        "name": "Nebraska Cornhuskers",
+        "score": "76",
+        "winner": true
       }
     },
     {
-      "id": "401921776",
-      "name": "Michigan Wolverines at Villanova Wildcats",
-      "shortName": "MICH @ VILL",
-      "date": "2026-11-22T00:00Z",
+      "id": "401906868",
+      "name": "Southern Indiana Screaming Eagles at Texas Longhorns",
+      "shortName": "USI @ TEX",
+      "date": "2026-11-22T20:00Z",
       "state": "pre",
-      "status": "11/21 - 7:00 PM EST",
+      "status": "11/22 - 3:00 PM EST",
       "completed": false,
       "home": {
-        "id": "222",
-        "abbr": "VILL",
-        "name": "Villanova Wildcats",
+        "id": "251",
+        "abbr": "TEX",
+        "name": "Texas Longhorns",
         "score": "0"
       },
       "away": {
-        "id": "130",
-        "abbr": "MICH",
-        "name": "Michigan Wolverines",
+        "id": "88",
+        "abbr": "USI",
+        "name": "Southern Indiana Screaming Eagles",
         "score": "0"
       }
     },
     {
-      "id": "401909567",
-      "name": "Washington State Cougars at Duke Blue Devils",
-      "shortName": "WSU VS DUKE",
-      "date": "2026-11-22T04:00Z",
+      "id": "401920905",
+      "name": "Delaware Blue Hens at UCLA Bruins",
+      "shortName": "DEL @ UCLA",
+      "date": "2026-11-23T00:00Z",
       "state": "pre",
-      "status": "11/21 - 11:00 PM EST",
+      "status": "11/22 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "150",
-        "abbr": "DUKE",
-        "name": "Duke Blue Devils",
+        "id": "26",
+        "abbr": "UCLA",
+        "name": "UCLA Bruins",
         "score": "0"
       },
       "away": {
-        "id": "265",
-        "abbr": "WSU",
-        "name": "Washington State Cougars",
+        "id": "48",
+        "abbr": "DEL",
+        "name": "Delaware Blue Hens",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401926774",
+      "name": "Louisiana Ragin' Cajuns at USC Trojans",
+      "shortName": "UL @ USC",
+      "date": "2026-11-23T01:00Z",
+      "state": "pre",
+      "status": "11/22 - 8:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "30",
+        "abbr": "USC",
+        "name": "USC Trojans",
+        "score": "0"
+      },
+      "away": {
+        "id": "309",
+        "abbr": "UL",
+        "name": "Louisiana Ragin' Cajuns",
         "score": "0"
       }
     }

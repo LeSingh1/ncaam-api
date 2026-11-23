@@ -1,92 +1,90 @@
 {
   "sport": "basketball",
   "league": "mens-college-basketball",
-  "date": "20261122",
+  "date": "20261123",
   "count": 4,
   "games": [
     {
-      "id": "401902281",
-      "name": "Nebraska Cornhuskers at Butler Bulldogs",
-      "shortName": "NEB VS BTLR",
-      "date": "2026-11-22T17:00Z",
-      "state": "post",
-      "status": "Final",
-      "completed": true,
+      "id": "401921708",
+      "name": "Washington Huskies at BYU Cougars",
+      "shortName": "WASH VS BYU",
+      "date": "2026-11-23T22:00Z",
+      "state": "in",
+      "status": "8:16 - 2nd",
+      "completed": false,
       "home": {
-        "id": "2086",
-        "abbr": "BTLR",
-        "name": "Butler Bulldogs",
-        "score": "74",
-        "winner": false
+        "id": "252",
+        "abbr": "BYU",
+        "name": "BYU Cougars",
+        "score": "59"
       },
       "away": {
-        "id": "158",
-        "abbr": "NEB",
-        "name": "Nebraska Cornhuskers",
-        "score": "76",
-        "winner": true
+        "id": "264",
+        "abbr": "WASH",
+        "name": "Washington Huskies",
+        "score": "57"
       }
     },
     {
-      "id": "401906868",
-      "name": "Southern Indiana Screaming Eagles at Texas Longhorns",
-      "shortName": "USI @ TEX",
-      "date": "2026-11-22T20:00Z",
+      "id": "401913530",
+      "name": "Winthrop Eagles at Illinois Fighting Illini",
+      "shortName": "WIN @ ILL",
+      "date": "2026-11-24T01:00Z",
       "state": "pre",
-      "status": "11/22 - 3:00 PM EST",
+      "status": "11/23 - 8:00 PM EST",
       "completed": false,
       "home": {
-        "id": "251",
-        "abbr": "TEX",
-        "name": "Texas Longhorns",
+        "id": "356",
+        "abbr": "ILL",
+        "name": "Illinois Fighting Illini",
         "score": "0"
       },
       "away": {
-        "id": "88",
-        "abbr": "USI",
-        "name": "Southern Indiana Screaming Eagles",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401920905",
-      "name": "Delaware Blue Hens at UCLA Bruins",
-      "shortName": "DEL @ UCLA",
-      "date": "2026-11-23T00:00Z",
-      "state": "pre",
-      "status": "11/22 - 7:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "26",
-        "abbr": "UCLA",
-        "name": "UCLA Bruins",
-        "score": "0"
-      },
-      "away": {
-        "id": "48",
-        "abbr": "DEL",
-        "name": "Delaware Blue Hens",
+        "id": "2737",
+        "abbr": "WIN",
+        "name": "Winthrop Eagles",
         "score": "0"
       }
     },
     {
-      "id": "401926774",
-      "name": "Louisiana Ragin' Cajuns at USC Trojans",
-      "shortName": "UL @ USC",
-      "date": "2026-11-23T01:00Z",
+      "id": "401909788",
+      "name": "Denver Pioneers at Kansas Jayhawks",
+      "shortName": "DEN @ KU",
+      "date": "2026-11-24T01:00Z",
       "state": "pre",
-      "status": "11/22 - 8:00 PM EST",
+      "status": "11/23 - 8:00 PM EST",
       "completed": false,
       "home": {
-        "id": "30",
-        "abbr": "USC",
-        "name": "USC Trojans",
+        "id": "2305",
+        "abbr": "KU",
+        "name": "Kansas Jayhawks",
         "score": "0"
       },
       "away": {
-        "id": "309",
-        "abbr": "UL",
-        "name": "Louisiana Ragin' Cajuns",
+        "id": "2172",
+        "abbr": "DEN",
+        "name": "Denver Pioneers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401909743",
+      "name": "Colorado State Rams at Arizona Wildcats",
+      "shortName": "CSU VS ARIZ",
+      "date": "2026-11-24T04:30Z",
+      "state": "pre",
+      "status": "11/23 - 11:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "12",
+        "abbr": "ARIZ",
+        "name": "Arizona Wildcats",
+        "score": "0"
+      },
+      "away": {
+        "id": "36",
+        "abbr": "CSU",
+        "name": "Colorado State Rams",
         "score": "0"
       }
     }

@@ -1,90 +1,239 @@
 {
   "sport": "basketball",
   "league": "mens-college-basketball",
-  "date": "20261123",
-  "count": 4,
+  "date": "20261124",
+  "count": 11,
   "games": [
     {
-      "id": "401921708",
-      "name": "Washington Huskies at BYU Cougars",
-      "shortName": "WASH VS BYU",
-      "date": "2026-11-23T22:00Z",
+      "id": "401921710",
+      "name": "Providence Friars at Arizona Wildcats",
+      "shortName": "PROV VS ARIZ",
+      "date": "2026-11-24T22:00Z",
       "state": "in",
-      "status": "8:16 - 2nd",
-      "completed": false,
-      "home": {
-        "id": "252",
-        "abbr": "BYU",
-        "name": "BYU Cougars",
-        "score": "59"
-      },
-      "away": {
-        "id": "264",
-        "abbr": "WASH",
-        "name": "Washington Huskies",
-        "score": "57"
-      }
-    },
-    {
-      "id": "401913530",
-      "name": "Winthrop Eagles at Illinois Fighting Illini",
-      "shortName": "WIN @ ILL",
-      "date": "2026-11-24T01:00Z",
-      "state": "pre",
-      "status": "11/23 - 8:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "356",
-        "abbr": "ILL",
-        "name": "Illinois Fighting Illini",
-        "score": "0"
-      },
-      "away": {
-        "id": "2737",
-        "abbr": "WIN",
-        "name": "Winthrop Eagles",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401909788",
-      "name": "Denver Pioneers at Kansas Jayhawks",
-      "shortName": "DEN @ KU",
-      "date": "2026-11-24T01:00Z",
-      "state": "pre",
-      "status": "11/23 - 8:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2305",
-        "abbr": "KU",
-        "name": "Kansas Jayhawks",
-        "score": "0"
-      },
-      "away": {
-        "id": "2172",
-        "abbr": "DEN",
-        "name": "Denver Pioneers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401909743",
-      "name": "Colorado State Rams at Arizona Wildcats",
-      "shortName": "CSU VS ARIZ",
-      "date": "2026-11-24T04:30Z",
-      "state": "pre",
-      "status": "11/23 - 11:30 PM EST",
+      "status": "17:16 - 1st",
       "completed": false,
       "home": {
         "id": "12",
         "abbr": "ARIZ",
         "name": "Arizona Wildcats",
+        "score": "7"
+      },
+      "away": {
+        "id": "2507",
+        "abbr": "PROV",
+        "name": "Providence Friars",
+        "score": "2"
+      }
+    },
+    {
+      "id": "401906853",
+      "name": "Tennessee Volunteers at Maryland Terrapins",
+      "shortName": "TENN VS MD",
+      "date": "2026-11-24T20:00Z",
+      "state": "in",
+      "status": "0:08 - 2nd",
+      "completed": false,
+      "home": {
+        "id": "120",
+        "abbr": "MD",
+        "name": "Maryland Terrapins",
+        "score": "64"
+      },
+      "away": {
+        "id": "2633",
+        "abbr": "TENN",
+        "name": "Tennessee Volunteers",
+        "score": "72"
+      }
+    },
+    {
+      "id": "401915941",
+      "name": "Miami Hurricanes at TCU Horned Frogs",
+      "shortName": "MIA VS TCU",
+      "date": "2026-11-24T20:00Z",
+      "state": "in",
+      "status": "0:57 - 2nd",
+      "completed": false,
+      "home": {
+        "id": "2628",
+        "abbr": "TCU",
+        "name": "TCU Horned Frogs",
+        "score": "80"
+      },
+      "away": {
+        "id": "2390",
+        "abbr": "MIA",
+        "name": "Miami Hurricanes",
+        "score": "67"
+      }
+    },
+    {
+      "id": "401921709",
+      "name": "Ole Miss Rebels at BYU Cougars",
+      "shortName": "MISS VS BYU",
+      "date": "2026-11-24T19:30Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
+      "home": {
+        "id": "252",
+        "abbr": "BYU",
+        "name": "BYU Cougars",
+        "score": "63",
+        "winner": false
+      },
+      "away": {
+        "id": "145",
+        "abbr": "MISS",
+        "name": "Ole Miss Rebels",
+        "score": "73",
+        "winner": true
+      }
+    },
+    {
+      "id": "401906774",
+      "name": "Milwaukee Panthers at Florida Gators",
+      "shortName": "MILW @ FLA",
+      "date": "2026-11-25T00:00Z",
+      "state": "pre",
+      "status": "11/24 - 7:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "57",
+        "abbr": "FLA",
+        "name": "Florida Gators",
         "score": "0"
       },
       "away": {
-        "id": "36",
-        "abbr": "CSU",
-        "name": "Colorado State Rams",
+        "id": "270",
+        "abbr": "MILW",
+        "name": "Milwaukee Panthers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401916319",
+      "name": "Vanderbilt Commodores at Ohio State Buckeyes",
+      "shortName": "VAN @ OSU",
+      "date": "2026-11-25T00:00Z",
+      "state": "pre",
+      "status": "11/24 - 7:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "194",
+        "abbr": "OSU",
+        "name": "Ohio State Buckeyes",
+        "score": "0"
+      },
+      "away": {
+        "id": "238",
+        "abbr": "VAN",
+        "name": "Vanderbilt Commodores",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401916291",
+      "name": "Jacksonville Dolphins at Indiana Hoosiers",
+      "shortName": "JAX @ IU",
+      "date": "2026-11-25T00:00Z",
+      "state": "pre",
+      "status": "11/24 - 7:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "84",
+        "abbr": "IU",
+        "name": "Indiana Hoosiers",
+        "score": "0"
+      },
+      "away": {
+        "id": "294",
+        "abbr": "JAX",
+        "name": "Jacksonville Dolphins",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401915942",
+      "name": "Texas Tech Red Raiders at Louisville Cardinals",
+      "shortName": "TTU VS LOU",
+      "date": "2026-11-25T01:00Z",
+      "state": "pre",
+      "status": "11/24 - 8:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "97",
+        "abbr": "LOU",
+        "name": "Louisville Cardinals",
+        "score": "0"
+      },
+      "away": {
+        "id": "2641",
+        "abbr": "TTU",
+        "name": "Texas Tech Red Raiders",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401906762",
+      "name": "Baylor Bears at Alabama Crimson Tide",
+      "shortName": "BAY VS ALA",
+      "date": "2026-11-25T03:00Z",
+      "state": "pre",
+      "status": "11/24 - 10:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "333",
+        "abbr": "ALA",
+        "name": "Alabama Crimson Tide",
+        "score": "0"
+      },
+      "away": {
+        "id": "239",
+        "abbr": "BAY",
+        "name": "Baylor Bears",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401915943",
+      "name": "Oregon Ducks at St. John's Red Storm",
+      "shortName": "ORE VS SJU",
+      "date": "2026-11-25T03:30Z",
+      "state": "pre",
+      "status": "11/24 - 10:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2599",
+        "abbr": "SJU",
+        "name": "St. John's Red Storm",
+        "score": "0"
+      },
+      "away": {
+        "id": "2483",
+        "abbr": "ORE",
+        "name": "Oregon Ducks",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401909800",
+      "name": "Gonzaga Bulldogs at Kansas State Wildcats",
+      "shortName": "GONZ VS KSU",
+      "date": "2026-11-25T05:30Z",
+      "state": "pre",
+      "status": "11/25 - 12:30 AM EST",
+      "completed": false,
+      "home": {
+        "id": "2306",
+        "abbr": "KSU",
+        "name": "Kansas State Wildcats",
+        "score": "0"
+      },
+      "away": {
+        "id": "2250",
+        "abbr": "GONZ",
+        "name": "Gonzaga Bulldogs",
         "score": "0"
       }
     }

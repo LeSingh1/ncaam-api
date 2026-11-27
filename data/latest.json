@@ -1,226 +1,276 @@
 {
   "sport": "basketball",
   "league": "mens-college-basketball",
-  "date": "20261126",
-  "count": 11,
+  "date": "20261127",
+  "count": 14,
   "games": [
     {
-      "id": "401906869",
-      "name": "Georgetown Hoyas at Texas Longhorns",
-      "shortName": "GTWN VS TEX",
-      "date": "2026-11-26T19:30Z",
+      "id": "401921717",
+      "name": "Georgetown Hoyas at UCLA Bruins",
+      "shortName": "GTWN VS UCLA",
+      "date": "2026-11-27T19:30Z",
       "state": "in",
-      "status": "8:25 - 2nd",
-      "completed": false,
-      "home": {
-        "id": "251",
-        "abbr": "TEX",
-        "name": "Texas Longhorns",
-        "score": "70"
-      },
-      "away": {
-        "id": "46",
-        "abbr": "GTWN",
-        "name": "Georgetown Hoyas",
-        "score": "62"
-      }
-    },
-    {
-      "id": "401920529",
-      "name": "Tennessee Volunteers at Iowa State Cyclones",
-      "shortName": "TENN VS ISU",
-      "date": "2026-11-26T20:30Z",
-      "state": "in",
-      "status": "7:17 - 1st",
-      "completed": false,
-      "home": {
-        "id": "66",
-        "abbr": "ISU",
-        "name": "Iowa State Cyclones",
-        "score": "13"
-      },
-      "away": {
-        "id": "2633",
-        "abbr": "TENN",
-        "name": "Tennessee Volunteers",
-        "score": "22"
-      }
-    },
-    {
-      "id": "401920537",
-      "name": "Miami Hurricanes at Michigan Wolverines",
-      "shortName": "MIA VS MICH",
-      "date": "2026-11-26T20:30Z",
-      "state": "in",
-      "status": "Halftime",
-      "completed": false,
-      "home": {
-        "id": "130",
-        "abbr": "MICH",
-        "name": "Michigan Wolverines",
-        "score": "45"
-      },
-      "away": {
-        "id": "2390",
-        "abbr": "MIA",
-        "name": "Miami Hurricanes",
-        "score": "52"
-      }
-    },
-    {
-      "id": "401925757",
-      "name": "Arkansas Razorbacks at Michigan State Spartans",
-      "shortName": "ARK VS MSU",
-      "date": "2026-11-26T21:30Z",
-      "state": "pre",
-      "status": "11/26 - 4:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "127",
-        "abbr": "MSU",
-        "name": "Michigan State Spartans",
-        "score": "0"
-      },
-      "away": {
-        "id": "8",
-        "abbr": "ARK",
-        "name": "Arkansas Razorbacks",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401921673",
-      "name": "USC Trojans at Utah State Aggies",
-      "shortName": "USC VS USU",
-      "date": "2026-11-26T21:30Z",
-      "state": "pre",
-      "status": "11/26 - 4:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "328",
-        "abbr": "USU",
-        "name": "Utah State Aggies",
-        "score": "0"
-      },
-      "away": {
-        "id": "30",
-        "abbr": "USC",
-        "name": "USC Trojans",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401917547",
-      "name": "Saint Mary's Gaels at UCLA Bruins",
-      "shortName": "SMC VS UCLA",
-      "date": "2026-11-26T22:00Z",
-      "state": "pre",
-      "status": "11/26 - 5:00 PM EST",
+      "status": "9:03 - 2nd",
       "completed": false,
       "home": {
         "id": "26",
         "abbr": "UCLA",
         "name": "UCLA Bruins",
-        "score": "0"
+        "score": "57"
       },
       "away": {
-        "id": "2608",
-        "abbr": "SMC",
-        "name": "Saint Mary's Gaels",
-        "score": "0"
+        "id": "46",
+        "abbr": "GTWN",
+        "name": "Georgetown Hoyas",
+        "score": "47"
       }
     },
     {
-      "id": "401918972",
-      "name": "SMU Mustangs at LSU Tigers",
-      "shortName": "SMU VS LSU",
-      "date": "2026-11-27T00:00Z",
-      "state": "pre",
-      "status": "11/26 - 7:00 PM EST",
-      "completed": false,
+      "id": "401920429",
+      "name": "Virginia Cavaliers at Xavier Musketeers",
+      "shortName": "UVA VS XAV",
+      "date": "2026-11-27T16:00Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
       "home": {
-        "id": "99",
-        "abbr": "LSU",
-        "name": "LSU Tigers",
-        "score": "0"
+        "id": "2752",
+        "abbr": "XAV",
+        "name": "Xavier Musketeers",
+        "score": "71",
+        "winner": false
       },
       "away": {
-        "id": "2567",
-        "abbr": "SMU",
-        "name": "SMU Mustangs",
-        "score": "0"
+        "id": "258",
+        "abbr": "UVA",
+        "name": "Virginia Cavaliers",
+        "score": "83",
+        "winner": true
       }
     },
     {
-      "id": "401920530",
-      "name": "Louisville Cardinals at St. John's Red Storm",
-      "shortName": "LOU VS SJU",
-      "date": "2026-11-27T02:00Z",
-      "state": "pre",
-      "status": "11/26 - 9:00 PM EST",
-      "completed": false,
+      "id": "401920533",
+      "name": "Iowa State Cyclones at St. John's Red Storm",
+      "shortName": "ISU VS SJU",
+      "date": "2026-11-27T18:00Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
       "home": {
         "id": "2599",
         "abbr": "SJU",
         "name": "St. John's Red Storm",
+        "score": "80",
+        "winner": true
+      },
+      "away": {
+        "id": "66",
+        "abbr": "ISU",
+        "name": "Iowa State Cyclones",
+        "score": "75",
+        "winner": false
+      }
+    },
+    {
+      "id": "401921827",
+      "name": "Southern Jaguars at Vanderbilt Commodores",
+      "shortName": "SOU @ VAN",
+      "date": "2026-11-27T19:00Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
+      "home": {
+        "id": "238",
+        "abbr": "VAN",
+        "name": "Vanderbilt Commodores",
+        "score": "111",
+        "winner": true
+      },
+      "away": {
+        "id": "2582",
+        "abbr": "SOU",
+        "name": "Southern Jaguars",
+        "score": "56",
+        "winner": false
+      }
+    },
+    {
+      "id": "401929288",
+      "name": "Memphis Tigers at Wake Forest Demon Deacons",
+      "shortName": "MEM VS WAKE",
+      "date": "2026-11-27T18:30Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
+      "home": {
+        "id": "154",
+        "abbr": "WAKE",
+        "name": "Wake Forest Demon Deacons",
+        "score": "85",
+        "winner": false
+      },
+      "away": {
+        "id": "235",
+        "abbr": "MEM",
+        "name": "Memphis Tigers",
+        "score": "88",
+        "winner": true
+      }
+    },
+    {
+      "id": "401921718",
+      "name": "Texas Longhorns at Saint Mary's Gaels",
+      "shortName": "TEX VS SMC",
+      "date": "2026-11-27T22:00Z",
+      "state": "pre",
+      "status": "11/27 - 5:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2608",
+        "abbr": "SMC",
+        "name": "Saint Mary's Gaels",
         "score": "0"
       },
       "away": {
-        "id": "97",
-        "abbr": "LOU",
-        "name": "Louisville Cardinals",
+        "id": "251",
+        "abbr": "TEX",
+        "name": "Texas Longhorns",
         "score": "0"
       }
     },
     {
-      "id": "401920539",
-      "name": "Alabama Crimson Tide at Kansas State Wildcats",
-      "shortName": "ALA VS KSU",
-      "date": "2026-11-27T02:00Z",
+      "id": "401909789",
+      "name": "Villanova Wildcats at Kansas Jayhawks",
+      "shortName": "VILL @ KU",
+      "date": "2026-11-27T22:00Z",
       "state": "pre",
-      "status": "11/26 - 9:00 PM EST",
+      "status": "11/27 - 5:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2306",
-        "abbr": "KSU",
-        "name": "Kansas State Wildcats",
+        "id": "2305",
+        "abbr": "KU",
+        "name": "Kansas Jayhawks",
         "score": "0"
       },
       "away": {
+        "id": "222",
+        "abbr": "VILL",
+        "name": "Villanova Wildcats",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401913531",
+      "name": "Western Kentucky Hilltoppers at Illinois Fighting Illini",
+      "shortName": "WKU @ ILL",
+      "date": "2026-11-27T23:00Z",
+      "state": "pre",
+      "status": "11/27 - 6:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "356",
+        "abbr": "ILL",
+        "name": "Illinois Fighting Illini",
+        "score": "0"
+      },
+      "away": {
+        "id": "98",
+        "abbr": "WKU",
+        "name": "Western Kentucky Hilltoppers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401911030",
+      "name": "Bowling Green Falcons at Indiana Hoosiers",
+      "shortName": "BGSU @ IU",
+      "date": "2026-11-27T23:00Z",
+      "state": "pre",
+      "status": "11/27 - 6:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "84",
+        "abbr": "IU",
+        "name": "Indiana Hoosiers",
+        "score": "0"
+      },
+      "away": {
+        "id": "189",
+        "abbr": "BGSU",
+        "name": "Bowling Green Falcons",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401925703",
+      "name": "Oakland Golden Grizzlies at Houston Cougars",
+      "shortName": "OAK @ HOU",
+      "date": "2026-11-28T00:30Z",
+      "state": "pre",
+      "status": "11/27 - 7:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "248",
+        "abbr": "HOU",
+        "name": "Houston Cougars",
+        "score": "0"
+      },
+      "away": {
+        "id": "2473",
+        "abbr": "OAK",
+        "name": "Oakland Golden Grizzlies",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401920543",
+      "name": "Miami Hurricanes at Alabama Crimson Tide",
+      "shortName": "MIA VS ALA",
+      "date": "2026-11-28T01:30Z",
+      "state": "pre",
+      "status": "11/27 - 8:30 PM EST",
+      "completed": false,
+      "home": {
         "id": "333",
         "abbr": "ALA",
         "name": "Alabama Crimson Tide",
         "score": "0"
+      },
+      "away": {
+        "id": "2390",
+        "abbr": "MIA",
+        "name": "Miami Hurricanes",
+        "score": "0"
       }
     },
     {
-      "id": "401920531",
-      "name": "Texas Tech Red Raiders at Oregon Ducks",
-      "shortName": "TTU VS ORE",
-      "date": "2026-11-27T04:30Z",
+      "id": "401920534",
+      "name": "Tennessee Volunteers at Louisville Cardinals",
+      "shortName": "TENN VS LOU",
+      "date": "2026-11-28T02:00Z",
       "state": "pre",
-      "status": "11/26 - 11:30 PM EST",
+      "status": "11/27 - 9:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2483",
-        "abbr": "ORE",
-        "name": "Oregon Ducks",
+        "id": "97",
+        "abbr": "LOU",
+        "name": "Louisville Cardinals",
         "score": "0"
       },
       "away": {
-        "id": "2641",
-        "abbr": "TTU",
-        "name": "Texas Tech Red Raiders",
+        "id": "2633",
+        "abbr": "TENN",
+        "name": "Tennessee Volunteers",
         "score": "0"
       }
     },
     {
-      "id": "401920540",
-      "name": "Baylor Bears at Gonzaga Bulldogs",
-      "shortName": "BAY VS GONZ",
-      "date": "2026-11-27T04:30Z",
+      "id": "401920544",
+      "name": "Creighton Bluejays at Gonzaga Bulldogs",
+      "shortName": "CREI VS GONZ",
+      "date": "2026-11-28T04:00Z",
       "state": "pre",
-      "status": "11/26 - 11:30 PM EST",
+      "status": "11/27 - 11:00 PM EST",
       "completed": false,
       "home": {
         "id": "2250",
@@ -229,9 +279,30 @@
         "score": "0"
       },
       "away": {
-        "id": "239",
-        "abbr": "BAY",
-        "name": "Baylor Bears",
+        "id": "156",
+        "abbr": "CREI",
+        "name": "Creighton Bluejays",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401920535",
+      "name": "San Diego State Aztecs at Texas Tech Red Raiders",
+      "shortName": "SDSU VS TTU",
+      "date": "2026-11-28T04:30Z",
+      "state": "pre",
+      "status": "11/27 - 11:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2641",
+        "abbr": "TTU",
+        "name": "Texas Tech Red Raiders",
+        "score": "0"
+      },
+      "away": {
+        "id": "21",
+        "abbr": "SDSU",
+        "name": "San Diego State Aztecs",
         "score": "0"
       }
     }
